@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Maon Tech</string>
+    <string name="sure_to_exit">Sure To Exit</string>
+    <string name="no">No</string>
+    <string name="yes_exit">Yes, Exit</string>
+    <string name="net_err">Network Error</string>
+    <string name="click_to_retry">Network Error\nClick To Retry</string>
+    <string name="founded">Founded</string>
+    <string name="nick">Nickname</string>
+    <string name="add">Address</string>
+    <string name="ph">Phone Number</string>
+    <string name="web">Website</string>
+    <string name="em">Email</string>
+    <string name="col">Colors</string>
+    <string name="cl_na">Club Details</string>
+    <string name="te_pl">Team Players</string>
+    <string name="teams">Teams</string>
+    <string name="coms">Competitions</string>
+    <string name="err1">API Access currently restricted\nClick To Close</string>
+    <string name="err2">Resource is restricted\nClick To Return</string>
+</resources>
